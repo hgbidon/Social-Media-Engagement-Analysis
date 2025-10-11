@@ -4,8 +4,7 @@
 ---
 
 ## 📊 Overview
-This project builds an **end-to-end analytics workflow in R** to explore how people engage with content across social media platforms.  
-It combines **sentiment classification**, **engagement clustering**, and **interactive data visualization** to uncover patterns in audience reactions and post performance.
+This project builds an **end-to-end analytics workflow in R** to explore how people engage with content across social media platforms. It combines **sentiment classification**, **engagement clustering**, and **interactive data visualization** to uncover patterns in audience reactions and post performance.
 
 ---
 
